@@ -1,6 +1,8 @@
 
 **AI Internship Test**
+
 Language: Python
+
 Allowed: Open-source libraries (NumPy, pandas, scikit-learn, TensorFlow, PyTorch,
 matplotlib, seaborn).
 
